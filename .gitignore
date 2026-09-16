@@ -1,0 +1,8 @@
+# OSTEP homework build outputs
+cpu-api/ps
+cpu-api/ps_05_03
+cpu-api/ps_05_03_pipe
+cpu-api/ps_05_03_signal
+cpu-api/read.txt
+cpu-api/write.txt
+*.o
